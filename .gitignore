@@ -1,0 +1,15 @@
+# Ignorowanie plików i katalogów IDE
+.idea/
+*.iml
+
+# Ignorowanie wirtualnego środowiska
+venv/
+
+# Ignorowanie plików tymczasowych
+*.log
+*.tmp
+*.swp
+
+# Ignorowanie plików systemowych
+.DS_Store
+Thumbs.db

@@ -37,5 +37,9 @@ This is a simple Tic Tac Toe game designed for two players, playable in the comm
 <h2>Program walk-through:</h2>
 
 <p align="center">
+<img src="https://i.imgur.com/MjrBbAW.png" height="45%" width="45%" alt="Visualisation of launch program: watermark paste and saving screen"/>
 <br />
 
+<p align="center">
+<img src="https://i.imgur.com/yL1JSfU.png" height="45%" width="45%" alt="Visualisation of launch program: watermark paste and saving screen"/>
+<br />
